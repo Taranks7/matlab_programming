@@ -1,9 +1,8 @@
 # MATLAB programming module
-
-## Aims
 Matlab programming lectures and homework
 
-Aims and learning objectives The module will introduce students to the MATLAB programming environment so that they can start to make scripts to run experiments, create stimuli, explore datasets, and perform statistical analyses.
+## Aims
+The module will introduce students to the MATLAB programming environment so that they can start to make scripts to run experiments, create stimuli, explore datasets, and perform statistical analyses.
 
 The module will cover:
 
