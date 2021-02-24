@@ -17,3 +17,6 @@ Explain and describe the workspace, variables, basic mathematical operations, gr
 Explain flow control (e.g., for loops, if statements) functions.
 Describe advanced variables, advanced flow control, file operations.
 Explain histograms, box plots, and statistical measures for psychology/neuroimaging data analysis.
+
+## Files
+Structured programming excersise: https://www.dropbox.com/s/e13cenabxp019yp/MATLAB2020_SPE.zip?dl=0
